@@ -32,74 +32,74 @@ También se deberá entregar el link al repositorio.
 
 **1. Cread un directorio donde vamos a empezar el proyecto y acceder a él.**
 
-![alt text](img/02.1.png)
+![alt text](02.1.png)
 
 **2. Inicializad el repositorio**
 
-![alt text](img/02.2.png)
+![alt text](02.2.png)
 
 **3. Cread un primer archivo "archivo1.txt"**
 
-![alt text](img/02.3.png)
+![alt text](02.3.png)
 
 **4. Visualizad el estado del proyecto**
 
-![alt text](img/02.4.png)
+![alt text](02.4.png)
 
 **5. Pasad el archivo del espacio de trabajo a la zona de preparación.**
 
-![alt text](img/02.5.png)
+![alt text](02.5.png)
 
 **6. Visualizad de nuevo el estado del proyecto**
 
-![alt text](img/02.6.png)
+![alt text](02.6.png)
 
 **7. Realizad el primer commit y visualizad de nuevo el estado del proyect**
 
-![alt text](img/02.7.png)
+![alt text](02.7.png)
 
 **8. Cread dos archivos más al proyecto. "archivo2.txt" y "archivo3.txt"**
 
-![alt text](img/02.8.png)
+![alt text](02.8.png)
 
 **9. Pasad el segundo archivo a la zona de preparación.**
 
-![alt text](img/02.9.png)
+![alt text](02.9.png)
 
 **10. Haced Segundo commit del proyecto.**
 
-![alt text](img/02.10.png)
+![alt text](02.10.png)
 
 **11. Añadid el ultimo archivo a la zona de preparación y realizad el commit.**
 
-![alt text](img/02.11.png)
+![alt text](02.11.png)
 
 **12. Mostrad el log de todos los cambios.**
 
-![alt text](img/02.12.png)
+![alt text](02.12.png)
 
 **13. Cambiad el archivo "archivo1.txt" y verificad el estado de git.**
 
-![alt text](img/02.13.png)
+![alt text](02.13.png)
 
 **14. Pasad el archivo a la zona de preparación.**
 
-![alt text](img/02.14.png)
+![alt text](02.14.png)
 
 **15. Modificad los archivos 2 y 3 del proyecto. Verificad estado del git.**
 
-![alt text](img/02.15.png)
+![alt text](02.15.png)
 
 **16. Pasad los archivos 2 y 3 a la zona de preparación.**
 
-![alt text](img/02.16.png)
+![alt text](02.16.png)
 
 **17. Realizar el commit de los cambios realizados.**
 
-![alt text](img/02.17.png)
+![alt text](02.17.png)
 
 **18. Mostrad el log de todos los cambios.**
 
-![alt text](img/02.18.png)
+![alt text](02.18.png)
 
 --- 
