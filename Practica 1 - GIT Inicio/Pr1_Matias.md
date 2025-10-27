@@ -11,19 +11,19 @@ También se deberá entregar el link al repositorio.
 
 **1. En un terminal posicionaros donde se creará el directorio del proyecto.**
 
-![alt text](01.1.png)
+![alt text](img/01.1.png)
 
 **2. Clonad el proyecto de la libreria Jquery que lo mantiene en github.**
 * https://www.github.com/jquery/jquery.git
 
-![alt text](01.2.png)
+![alt text](img/01.2.png)
 
-![alt text](01.2.1.pngpng)
+![alt text](img/01.2.1.pngpng)
 
 **3. Entrad en el directorio creado (jquery) y mostrad un log de los estados por los que ha pasado el proyecto.**
 
-![alt text](01.3.png)
-![alt text](01.3.1.png)
+![alt text](img/01.3.png)
+![alt text](img/01.3.1.png)
 
 
 --- 
